@@ -1,0 +1,10 @@
+C:\Users\thanh\source\repos\HocWinForm\HocWinForm\bin\Debug\HocWinForm.exe
+C:\Users\thanh\source\repos\HocWinForm\HocWinForm\bin\Debug\HocWinForm.pdb
+C:\Users\thanh\source\repos\HocWinForm\HocWinForm\obj\Debug\HocWinForm.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\HocWinForm\HocWinForm\obj\Debug\HocWinForm.Properties.Resources.resources
+C:\Users\thanh\source\repos\HocWinForm\HocWinForm\obj\Debug\HocWinForm.csproj.GenerateResource.cache
+C:\Users\thanh\source\repos\HocWinForm\HocWinForm\obj\Debug\HocWinForm.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\HocWinForm\HocWinForm\obj\Debug\HocWinForm.exe
+C:\Users\thanh\source\repos\HocWinForm\HocWinForm\obj\Debug\HocWinForm.pdb
+C:\Users\thanh\source\repos\HocWinForm\HocWinForm\obj\Debug\HocWinForm.Form1.resources
+C:\Users\thanh\source\repos\HocWinForm\HocWinForm\obj\Debug\HocWinForm.FormPTB2.resources
